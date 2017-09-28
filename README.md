@@ -6,8 +6,8 @@ Install Ubuntu Dependencies:
 `sudo apt-get install subversion cmake libopencv-dev libeigen3-dev libv4l-dev`
 
 Follow these steps:
-- Compile using make -j
-- Run using ./build/bin/apriltags_demo Test1.jpg 
+- Compile using `make -j`
+- Run using `./build/bin/apriltags_demo Test1.jpg`
 - The output should be 
 
 0 9.48875 86.5022 89.5118 86.5121 89.5027 6.4887 9.49638 6.49653 <br>
